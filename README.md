@@ -23,9 +23,13 @@ numpy 官网  http://www.numpy.org/
 8_shape
 
 9_Numba_加速numpy
-
 ```
 https://www.cnblogs.com/freeweb/p/6652607.html
+```
+
+10_图解NumPy
+```
+https://mp.weixin.qq.com/s/_r1czXpTRL4zFfaBL6XiVA
 ```
 
 
