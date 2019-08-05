@@ -33,4 +33,10 @@ https://mp.weixin.qq.com/s/_r1czXpTRL4zFfaBL6XiVA
 https://jalammar.github.io/visual-numpy/
 ```
 
+11_统计数组的值出现次数
+```
+np.bincount()
+numpy 统计数组的值出现次数与np.bincount()详细解释
+https://blog.csdn.net/weixin_42280517/article/details/89788643
+```
 
