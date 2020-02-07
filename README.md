@@ -48,6 +48,7 @@ python如何保存矩阵，保存matrix,保存numpy.ndarray https://blog.csdn.ne
 
 ```
 对ndarray格式的图片进行处理时，可以考虑 skimage
+注：对图像处理的时候要注意图像的格式（uint8, float64等），可以用skimage.img_as_ubyte(img), skimage.img_as_float(img)等方法进行转换。
 ```
 
 skimage图像的读取与保存 https://blog.csdn.net/maohule/article/details/97268174
