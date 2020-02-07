@@ -44,5 +44,11 @@ https://blog.csdn.net/weixin_42280517/article/details/89788643
 
 python如何保存矩阵，保存matrix,保存numpy.ndarray https://blog.csdn.net/hhtnan/article/details/79629147
 
+#### 13_skimage
 
+```
+对ndarray格式的图片进行处理时，可以考虑 skimage
+```
+
+skimage图像的读取与保存 https://blog.csdn.net/maohule/article/details/97268174
 
