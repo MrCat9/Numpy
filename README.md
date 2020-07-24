@@ -54,3 +54,6 @@ python如何保存矩阵，保存matrix,保存numpy.ndarray https://blog.csdn.ne
 skimage图像的读取与保存 https://blog.csdn.net/maohule/article/details/97268174
 
 skimage图像处理 https://blog.csdn.net/m992705800/article/details/82080437
+
+#### [14_计算一个点到所有点的欧式距离](https://github.com/MrCat9/Numpy_Note/blob/master/euclidean_distance.ipynb)
+
